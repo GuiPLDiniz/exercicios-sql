@@ -63,11 +63,7 @@ INSERT INTO produtos VALUES
 (4, 'Monitor', NULL, 1200.00);
 
 
-INSERT INTO produtos VALUES
-(1, 'Notebook', 'Notebook Dell', 3500.00),
-(2, 'Mouse', NULL, 50.00),
-(3, 'Teclado', 'Teclado mecânico', 200.00),
-(4, 'Monitor', NULL, 1200.00);
+
 
 
 INSERT INTO funcionarios VALUES
